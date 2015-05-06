@@ -1,5 +1,5 @@
 === MailPoet Newsletters - Mandrill Spam and Bounce Cleaner ===
-Contributors:      chrispmedina
+Contributors:      chrismedina
 Donate link:       http://chrismedinaphp.com/donate
 Tags:              mailpoet mandrill cleaner, newsletter spam delete, mailpoet newsletter cleaner, mailpoet email cleaner, mailpoet bounce cleaner, mailpoet mandrill spam cleaner, newsletter spam cleaner, newsletter, newsletters, email, subscribers, subscription cleaner, newsletter cleaner, signup, notification, subscription, alerts, auto newsletter, autoresponder, follow up, dunning email, campaign, drip, marketing, emailing, mailpoet, wysija, mailchimp, aweber, mandrill, sendgrid, amazon
 Requires at least: 3.1
