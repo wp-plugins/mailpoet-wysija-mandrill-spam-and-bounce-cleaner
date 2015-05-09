@@ -55,3 +55,9 @@ There are 3 ways to install this plugin:
 My [support site](http://chrismedinaphp.com/plugins/) has areas to get more information and support.
 
 == Screenshots ==
+
+1. Mandrill Settings.
+2. Choose 5 different error types.
+3. Select date range, then click Search.
+4. DataTable displays list of errors.
+5. Confirm that you wish to unsubscribe bad emails.
